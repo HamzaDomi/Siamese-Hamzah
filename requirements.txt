@@ -1,0 +1,6 @@
+dlib
+tensorflow
+matplotlib
+numpy
+random
+sklearn
